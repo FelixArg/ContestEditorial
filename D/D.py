@@ -42,4 +42,4 @@ def brute(pos, bal1, bal2, cur):
 
 brute(0, 0, 0, 0)
 print(ans)
-print(''.join(t))
+print(t)
